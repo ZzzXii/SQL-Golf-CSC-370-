@@ -1,4 +1,4 @@
-# SQL-Golf
+# SQL-Golf-CSC370
 demonstrate data analysis skills with SQL
 In this assignment you will:
 
